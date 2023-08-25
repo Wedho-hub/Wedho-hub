@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wedho-hub
 - 👀 I’m interested in ...fullstack developing
-- 🌱 I’m currently learning ...front 
+- 🌱 I’m currently learning ...mern stack development 
 - 💞️ I’m looking to collaborate on ...any website development project
 - 📫 How to reach me ...welingtond@gmail.com
 
