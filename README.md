@@ -1,10 +1,44 @@
-- 👋 Hi, I’m @Wedho-hub
-- 👀 I’m interested in ...fullstack developing
-- 🌱 I’m currently learning ...mern stack development 
-- 💞️ I’m looking to collaborate on ...any website development project
-- 📫 How to reach me ...welingtond@gmail.com
+🌍 Wellington Dhliwayo — Full-Stack Developer (MERN)
 
-<!---
-Wedho-hub/Wedho-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋, I’m Wellington (Wedho), a Full-Stack MERN Developer passionate about building scalable web apps, digital marketing solutions, and SEO-driven platforms.
+
+🚀 Recently graduated from the HyperionDev Full Stack Bootcamp and currently transitioning from a strong background in engineering & construction supervision into software development.
+I love solving real-world problems with clean code, user-focused design, and modern web technologies.
+
+🛠 Tech Stack
+
+💻 Languages: JavaScript (ES6+), HTML5, CSS3, SQL
+⚙️ Backend: Node.js, Express.js, REST APIs
+🎨 Frontend: React.js (Vite), Bootstrap, Custom CSS
+🗄 Database: MongoDB (Mongoose, Atlas)
+🔐 Auth: JWT, bcrypt
+☁️ Tools & Deployment: Git, GitHub, Render, Vercel, Netlify, MongoDB Atlas
+📈 Extras: SEO, Digital Marketing, E-commerce
+
+📌 Featured Projects
+🔗 Church Website (Inkosiyeza SDA)
+
+MERN full-stack site with admin dashboard, blogging, donations, and media gallery.
+
+🔗 Portfolio Website (in progress)
+
+Full-stack personal portfolio showcasing projects, resume, and freelance services.
+
+🔗 Other Projects
+
+📊 Tool Tracking System – CRUD app for managing tools in engineering workflows.
+
+
+
+
+📫 Let’s Connect!
+
+🌐 Portfolio: coming soon
+
+💼 LinkedIn
+
+🐙 GitHub
+
+📧 wellingtond99@gmail.com
+
+📱 +27 81 387 2713
