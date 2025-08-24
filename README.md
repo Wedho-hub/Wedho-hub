@@ -35,9 +35,9 @@ Full-stack personal portfolio showcasing projects, resume, and freelance service
 
 🌐 Portfolio: coming soon
 
-💼 LinkedIn
+💼 LinkedIn - https://www.linkedin.com/in/wellington-dhliwayo
 
-🐙 GitHub
+🐙 GitHub - https://github.com/Wedho-hub
 
 📧 wellingtond99@gmail.com
 
