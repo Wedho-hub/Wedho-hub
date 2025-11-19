@@ -33,7 +33,7 @@ Full-stack personal portfolio showcasing projects, resume, and freelance service
 
 📫 Let’s Connect!
 
-🌐 Portfolio: coming soon
+🌐 Portfolio: https://wedhoportfolio.netlify.app
 
 💼 LinkedIn - https://www.linkedin.com/in/wellington-dhliwayo
 
